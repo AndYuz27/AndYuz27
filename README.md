@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=AndYuz27)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **AndYuz27/AndYuz27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
